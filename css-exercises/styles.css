@@ -1,3 +1,9 @@
-p {
-  color:red;
+.center {
+  text-align: center;
+  color: red;
 }
+
+#id1{
+    color: red;
+    font-family: verdana;
+  }
